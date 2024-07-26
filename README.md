@@ -33,7 +33,9 @@ and then enter all information as shown in the image below:
 
 If your configuration is valid, the terminal will display as shown in the image below :
 ![rivalz](https://github.com/user-attachments/assets/37ce3dd4-d251-4faf-98af-cdd2ef5cdd65)
+
 And it repeats every moment:
+
 ![rivalz2](https://github.com/user-attachments/assets/f194fa12-df9f-495d-9b03-06c4db62b3e7)
 
 
