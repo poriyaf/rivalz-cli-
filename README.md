@@ -10,8 +10,8 @@ Click on connect
 Maybe there is no server, we start with the following codes
 First of all, update your server:
 <pre> apt update && apt upgrade -y </pre>
-We copy the command and paste it in Termius with control + shift + v. We place all the commands in the same way
-<pre>Now we install the curl function:</pre>
+We copy the command and paste it in Termius with control + shift + v. We place all the commands in the same way                                                                                                                        
+ Now we install the curl function:
 <pre>apt install curl </pre>
 We copy the command and paste it in Termius with control + shift + v
 Rivals requires version 20 of Node.js, so we install it from the repository:
