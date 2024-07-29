@@ -9,19 +9,31 @@ Click on connect
 .
 Maybe there is no server, we start with the following codes
 First of all, update your server:
-<pre> apt update && apt upgrade -y </pre>
+```
+apt update && apt upgrade -y 
+```
 We copy the command and paste it in Termius with control + shift + v. We place all the commands in the same way                                                                                                                        
  Now we install the curl function:
-<pre>apt install curl </pre>
+```
+apt install curl
+``` 
 We copy the command and paste it in Termius with control + shift + v
 Rivals requires version 20 of Node.js, so we install it from the repository:
-<pre>curl -fsSL https://deb.nodesource.com/setup_20.x <span class="pl-k">|</span> sudo -E bash -</pre>
+```
+curl -fsSL https://deb.nodesource.com/setup_20.x <span class="pl-k">|</span> sudo -E bash 
+ ```
 Then we install the Node.js package:
-<pre> nodejs -v </pre>
+```
+nodejs -v 
+ ```
 Now it's time to install Rivalz itself:
-<pre> npm i -g rivalz-node-cli </pre>
+```
+npm i -g rivalz-node-cli
+```
 Now enter this code:
-<pre> rivalz run </pre>
+```
+rivalz run
+```
 and then enter all information as shown in the image below:
 <pre>1-Your wallet address</pre>
 <pre>2-CPU core</pre>
